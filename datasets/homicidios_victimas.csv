@@ -1,0 +1,718 @@
+siniestro_id,rol_victima,vehiculo_victima,sexo_victima,rango_etario,gravedad
+2016-0001,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0002,conductor,auto,masculino,60 y mayores,fatal
+2016-0003,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0004,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0005,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0008,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0009,pasajero_acompañante,moto,masculino,entre 30 y 39,fatal
+2016-0010,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0012,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0013,peaton,peaton,masculino,menos de 18,fatal
+2016-0015,peaton,peaton,femenino,menos de 18,fatal
+2016-0016,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2016-0017,peaton,peaton,masculino,60 y mayores,fatal
+2016-0019,peaton,peaton,femenino,60 y mayores,fatal
+2016-0020,peaton,peaton,masculino,60 y mayores,fatal
+2016-0021,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0022,pasajero_acompañante,moto,masculino,entre 40 y 49,fatal
+2016-0025,pasajero_acompañante,auto,masculino,entre 30 y 39,fatal
+2016-0026,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0027,pasajero_acompañante,auto,masculino,entre 30 y 39,fatal
+2016-0028,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0029,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0031,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0034,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0035,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0036,pasajero_acompañante,moto,masculino,entre 30 y 39,fatal
+2016-0037,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0038,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0039,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0041,conductor,moto,masculino,entre 50 y 59,fatal
+2016-0041,pasajero_acompañante,moto,masculino,,fatal
+2016-0043,peaton,peaton,femenino,entre 50 y 59,fatal
+2016-0044,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0045,conductor,moto,masculino,,fatal
+2016-0047,peaton,peaton,masculino,entre 40 y 49,fatal
+2016-0048,peaton,peaton,femenino,,fatal
+2016-0049,,,,,fatal
+2016-0050,peaton,peaton,masculino,60 y mayores,fatal
+2016-0051,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0052,,moto,,,fatal
+2016-0053,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0054,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0055,peaton,peaton,masculino,60 y mayores,fatal
+2016-0056,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0058,peaton,peaton,femenino,entre 50 y 59,fatal
+2016-0059,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0064,peaton,peaton,masculino,entre 18 y 29,fatal
+2016-0065,peaton,peaton,masculino,entre 18 y 29,fatal
+2016-0067,pasajero_acompañante,moto,femenino,entre 30 y 39,fatal
+2016-0068,conductor,moto,masculino,entre 50 y 59,fatal
+2016-0069,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0073,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0074,conductor,auto,masculino,60 y mayores,fatal
+2016-0075,peaton,peaton,masculino,entre 40 y 49,fatal
+2016-0076,peaton,peaton,femenino,entre 50 y 59,fatal
+2016-0077,peaton,peaton,femenino,,fatal
+2016-0078,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0079,conductor,auto,femenino,entre 50 y 59,fatal
+2016-0080,conductor,auto,masculino,60 y mayores,fatal
+2016-0081,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0082,peaton,peaton,masculino,60 y mayores,fatal
+2016-0083,peaton,peaton,femenino,60 y mayores,fatal
+2016-0084,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0085,,moto,masculino,,fatal
+2016-0086,peaton,peaton,masculino,60 y mayores,fatal
+2016-0087,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0088,peaton,peaton,femenino,60 y mayores,fatal
+2016-0089,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0090,peaton,peaton,masculino,60 y mayores,fatal
+2016-0092,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0093,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0095,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0096,conductor,moto,masculino,,fatal
+2016-0097,peaton,peaton,masculino,60 y mayores,fatal
+2016-0098,conductor,moto,femenino,entre 40 y 49,fatal
+2016-0099,conductor,cargas,masculino,entre 40 y 49,fatal
+2016-0100,conductor,moto,masculino,entre 50 y 59,fatal
+2016-0101,,,masculino,60 y mayores,fatal
+2016-0102,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0104,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0105,peaton,peaton,masculino,entre 18 y 29,fatal
+2016-0106,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0107,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0109,conductor,auto,femenino,entre 50 y 59,fatal
+2016-0110,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0111,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0112,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0113,peaton,peaton,femenino,60 y mayores,fatal
+2016-0114,conductor,bicicleta,femenino,entre 50 y 59,fatal
+2016-0115,,,masculino,,fatal
+2016-0116,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0117,conductor,auto,masculino,entre 40 y 49,fatal
+2016-0118,conductor,auto,masculino,entre 18 y 29,fatal
+2016-0119,pasajero_acompañante,,femenino,,fatal
+2016-0122,conductor,bicicleta,masculino,entre 50 y 59,fatal
+2016-0123,conductor,moto,femenino,entre 50 y 59,fatal
+2016-0124,peaton,peaton,masculino,60 y mayores,fatal
+2016-0125,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0126,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0126,pasajero_acompañante,auto,masculino,60 y mayores,fatal
+2016-0127,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0128,peaton,peaton,femenino,60 y mayores,fatal
+2016-0130,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0131,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0132,pasajero_acompañante,auto,masculino,entre 30 y 39,fatal
+2016-0133,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0134,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0135,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0136,conductor,moto,,,fatal
+2016-0137,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0138,conductor,bicicleta,femenino,entre 30 y 39,fatal
+2016-0139,pasajero_acompañante,moto,femenino,entre 30 y 39,fatal
+2016-0140,pasajero_acompañante,pasajeros,masculino,entre 18 y 29,fatal
+2016-0142,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0143,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0144,peaton,peaton,masculino,60 y mayores,fatal
+2016-0145,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0146,peaton,peaton,femenino,entre 30 y 39,fatal
+2016-0147,pasajero_acompañante,movil,masculino,entre 50 y 59,fatal
+2016-0148,conductor,moto,masculino,,fatal
+2016-0150,pasajero_acompañante,cargas,masculino,entre 40 y 49,fatal
+2016-0151,peaton,peaton,,,fatal
+2016-0152,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0153,peaton,peaton,femenino,60 y mayores,fatal
+2016-0154,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0155,peaton,peaton,femenino,entre 30 y 39,fatal
+2016-0156,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0157,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0159,conductor,auto,masculino,entre 18 y 29,fatal
+2016-0160,conductor,cargas,masculino,entre 30 y 39,fatal
+2016-0161,peaton,peaton,masculino,entre 50 y 59,fatal
+2016-0162,peaton,peaton,masculino,entre 30 y 39,fatal
+2016-0163,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0164,conductor,auto,masculino,entre 30 y 39,fatal
+2016-0165,conductor,bicicleta,masculino,entre 30 y 39,fatal
+2016-0168,conductor,moto,masculino,entre 40 y 49,fatal
+2016-0169,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0170,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2016-0171,conductor,moto,,,fatal
+2016-0172,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0173,conductor,moto,masculino,entre 30 y 39,fatal
+2016-0174,,,,,fatal
+2016-0175,peaton,peaton,femenino,,fatal
+2016-0176,conductor,moto,masculino,entre 18 y 29,fatal
+2016-0177,peaton,peaton,femenino,entre 18 y 29,fatal
+2016-0178,peaton,peaton,femenino,menos de 18,fatal
+2017-0001,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0003,pasajero_acompañante,cargas,masculino,entre 30 y 39,fatal
+2017-0007,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0008,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0009,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0010,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0011,pasajero_acompañante,moto,femenino,entre 30 y 39,fatal
+2017-0012,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0013,peaton,peaton,masculino,menos de 18,fatal
+2017-0014,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2017-0015,peaton,peaton,masculino,60 y mayores,fatal
+2017-0016,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0017,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0018,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0021,conductor,moto,masculino,entre 40 y 49,fatal
+2017-0024,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0025,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0026,pasajero_acompañante,auto,femenino,entre 18 y 29,fatal
+2017-0026,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0027,peaton,peaton,masculino,,fatal
+2017-0028,peaton,peaton,masculino,60 y mayores,fatal
+2017-0029,,,masculino,entre 30 y 39,fatal
+2017-0030,conductor,auto,femenino,entre 18 y 29,fatal
+2017-0031,pasajero_acompañante,auto,masculino,60 y mayores,fatal
+2017-0032,pasajero_acompañante,auto,femenino,entre 40 y 49,fatal
+2017-0033,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0034,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0035,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0035,pasajero_acompañante,auto,masculino,entre 30 y 39,fatal
+2017-0035,pasajero_acompañante,auto,masculino,entre 30 y 39,fatal
+2017-0036,pasajero_acompañante,moto,femenino,,fatal
+2017-0036,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0037,conductor,moto,masculino,entre 40 y 49,fatal
+2017-0038,conductor,moto,femenino,entre 40 y 49,fatal
+2017-0040,conductor,auto,masculino,entre 40 y 49,fatal
+2017-0041,conductor,moto,masculino,menos de 18,fatal
+2017-0042,conductor,moto,masculino,,fatal
+2017-0045,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0047,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0049,peaton,peaton,masculino,entre 18 y 29,fatal
+2017-0050,conductor,moto,masculino,entre 40 y 49,fatal
+2017-0050,pasajero_acompañante,moto,masculino,menos de 18,fatal
+2017-0051,conductor,auto,masculino,entre 30 y 39,fatal
+2017-0052,peaton,peaton,femenino,entre 40 y 49,fatal
+2017-0053,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0054,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2017-0055,conductor,auto,masculino,entre 30 y 39,fatal
+2017-0058,peaton,peaton,masculino,60 y mayores,fatal
+2017-0059,peaton,peaton,femenino,entre 40 y 49,fatal
+2017-0060,pasajero_acompañante,moto,masculino,entre 30 y 39,fatal
+2017-0061,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0062,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0063,peaton,peaton,femenino,60 y mayores,fatal
+2017-0064,pasajero_acompañante,cargas,masculino,60 y mayores,fatal
+2017-0065,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2017-0066,peaton,peaton,masculino,menos de 18,fatal
+2017-0067,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0068,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0069,conductor,moto,masculino,entre 40 y 49,fatal
+2017-0070,peaton,peaton,masculino,60 y mayores,fatal
+2017-0072,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0073,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0074,,,masculino,60 y mayores,fatal
+2017-0075,peaton,peaton,masculino,entre 50 y 59,fatal
+2017-0076,peaton,peaton,femenino,entre 30 y 39,fatal
+2017-0077,conductor,moto,femenino,60 y mayores,fatal
+2017-0079,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0080,peaton,peaton,femenino,60 y mayores,fatal
+2017-0082,peaton,peaton,masculino,entre 30 y 39,fatal
+2017-0083,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0084,peaton,peaton,femenino,60 y mayores,fatal
+2017-0085,peaton,peaton,masculino,60 y mayores,fatal
+2017-0086,peaton,peaton,femenino,entre 30 y 39,fatal
+2017-0087,peaton,peaton,femenino,60 y mayores,fatal
+2017-0088,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0089,,,masculino,entre 18 y 29,fatal
+2017-0090,peaton,peaton,masculino,entre 18 y 29,fatal
+2017-0091,conductor,moto,masculino,entre 50 y 59,fatal
+2017-0092,peaton,peaton,masculino,60 y mayores,fatal
+2017-0093,peaton,peaton,masculino,,fatal
+2017-0094,conductor,bicicleta,femenino,entre 50 y 59,fatal
+2017-0095,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0096,peaton,peaton,masculino,60 y mayores,fatal
+2017-0098,peaton,peaton,femenino,60 y mayores,fatal
+2017-0099,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2017-0100,pasajero_acompañante,moto,femenino,menos de 18,fatal
+2017-0101,peaton,peaton,femenino,60 y mayores,fatal
+2017-0102,peaton,peaton,masculino,entre 40 y 49,fatal
+2017-0104,peaton,peaton,femenino,entre 18 y 29,fatal
+2017-0106,peaton,peaton,femenino,60 y mayores,fatal
+2017-0107,conductor,moto,masculino,entre 40 y 49,fatal
+2017-0108,pasajero_acompañante,auto,masculino,menos de 18,fatal
+2017-0108,pasajero_acompañante,auto,masculino,menos de 18,fatal
+2017-0109,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0110,peaton,peaton,masculino,entre 50 y 59,fatal
+2017-0111,peaton,peaton,femenino,60 y mayores,fatal
+2017-0112,pasajero_acompañante,auto,masculino,menos de 18,fatal
+2017-0112,pasajero_acompañante,auto,masculino,,fatal
+2017-0113,peaton,peaton,femenino,60 y mayores,fatal
+2017-0114,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0115,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0116,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0118,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2017-0120,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0123,peaton,peaton,femenino,entre 30 y 39,fatal
+2017-0124,conductor,moto,masculino,entre 50 y 59,fatal
+2017-0125,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0126,pasajero_acompañante,auto,masculino,entre 40 y 49,fatal
+2017-0126,conductor,auto,masculino,entre 30 y 39,fatal
+2017-0127,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2017-0128,peaton,peaton,femenino,60 y mayores,fatal
+2017-0129,conductor,moto,masculino,entre 50 y 59,fatal
+2017-0130,conductor,auto,masculino,entre 18 y 29,fatal
+2017-0132,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0134,peaton,peaton,femenino,entre 40 y 49,fatal
+2017-0135,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0136,peaton,peaton,masculino,entre 50 y 59,fatal
+2017-0137,peaton,peaton,femenino,60 y mayores,fatal
+2017-0138,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2017-0139,pasajero_acompañante,auto,femenino,menos de 18,fatal
+2017-0140,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0141,peaton,peaton,femenino,entre 18 y 29,fatal
+2017-0143,conductor,auto,masculino,entre 50 y 59,fatal
+2017-0144,pasajero_acompañante,auto,femenino,entre 50 y 59,fatal
+2017-0145,conductor,moto,masculino,entre 50 y 59,fatal
+2017-0147,conductor,moto,masculino,entre 50 y 59,fatal
+2017-0148,peaton,peaton,femenino,60 y mayores,fatal
+2017-0149,peaton,peaton,masculino,menos de 18,fatal
+2017-0150,peaton,peaton,masculino,entre 50 y 59,fatal
+2017-0151,peaton,peaton,masculino,,fatal
+2017-0152,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2017-0153,pasajero_acompañante,moto,masculino,,fatal
+2017-0153,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0154,peaton,peaton,masculino,60 y mayores,fatal
+2017-0155,,,masculino,60 y mayores,fatal
+2017-0157,conductor,auto,masculino,entre 50 y 59,fatal
+2017-0158,conductor,moto,masculino,entre 30 y 39,fatal
+2017-0159,conductor,moto,masculino,entre 18 y 29,fatal
+2017-0160,peaton,peaton,femenino,entre 30 y 39,fatal
+2017-0161,peaton,peaton,femenino,entre 30 y 39,fatal
+2018-0001,peaton,peaton,masculino,60 y mayores,fatal
+2018-0002,conductor,bicicleta,femenino,entre 18 y 29,fatal
+2018-0003,peaton,peaton,femenino,entre 50 y 59,fatal
+2018-0004,conductor,moto,masculino,entre 40 y 49,fatal
+2018-0005,peaton,peaton,masculino,entre 50 y 59,fatal
+2018-0006,conductor,bicicleta,femenino,entre 40 y 49,fatal
+2018-0007,conductor,auto,masculino,entre 40 y 49,fatal
+2018-0008,conductor,moto,femenino,entre 30 y 39,fatal
+2018-0009,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0010,conductor,moto,masculino,entre 40 y 49,fatal
+2018-0011,peaton,peaton,masculino,60 y mayores,fatal
+2018-0012,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0013,conductor,moto,masculino,entre 40 y 49,fatal
+2018-0014,peaton,peaton,masculino,,fatal
+2018-0015,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0015,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2018-0016,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0017,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0018,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0019,peaton,peaton,femenino,60 y mayores,fatal
+2018-0020,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0021,peaton,peaton,femenino,60 y mayores,fatal
+2018-0022,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0023,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0024,peaton,peaton,masculino,60 y mayores,fatal
+2018-0025,peaton,peaton,masculino,60 y mayores,fatal
+2018-0026,conductor,movil,masculino,entre 18 y 29,fatal
+2018-0026,pasajero_acompañante,movil,masculino,entre 30 y 39,fatal
+2018-0027,peaton,peaton,femenino,60 y mayores,fatal
+2018-0028,peaton,peaton,masculino,60 y mayores,fatal
+2018-0029,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0030,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0031,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0032,peaton,peaton,masculino,60 y mayores,fatal
+2018-0033,conductor,moto,femenino,entre 40 y 49,fatal
+2018-0034,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0035,peaton,peaton,femenino,entre 40 y 49,fatal
+2018-0036,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0037,peaton,peaton,masculino,60 y mayores,fatal
+2018-0038,peaton,peaton,femenino,60 y mayores,fatal
+2018-0038,peaton,peaton,masculino,60 y mayores,fatal
+2018-0039,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0040,peaton,peaton,femenino,,fatal
+2018-0041,peaton,peaton,femenino,60 y mayores,fatal
+2018-0042,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2018-0043,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0044,peaton,peaton,femenino,entre 50 y 59,fatal
+2018-0045,conductor,auto,masculino,60 y mayores,fatal
+2018-0046,peaton,peaton,masculino,menos de 18,fatal
+2018-0047,peaton,peaton,masculino,60 y mayores,fatal
+2018-0048,peaton,peaton,masculino,entre 50 y 59,fatal
+2018-0049,peaton,peaton,femenino,entre 40 y 49,fatal
+2018-0050,peaton,peaton,femenino,entre 40 y 49,fatal
+2018-0051,peaton,peaton,femenino,entre 50 y 59,fatal
+2018-0052,peaton,peaton,masculino,60 y mayores,fatal
+2018-0053,conductor,moto,masculino,entre 40 y 49,fatal
+2018-0054,peaton,peaton,femenino,60 y mayores,fatal
+2018-0055,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0056,peaton,peaton,femenino,60 y mayores,fatal
+2018-0057,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0058,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0059,conductor,moto,masculino,entre 50 y 59,fatal
+2018-0060,peaton,peaton,masculino,entre 50 y 59,fatal
+2018-0061,conductor,moto,masculino,entre 50 y 59,fatal
+2018-0062,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0063,peaton,peaton,femenino,entre 18 y 29,fatal
+2018-0064,conductor,auto,masculino,entre 30 y 39,fatal
+2018-0065,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0066,peaton,peaton,masculino,60 y mayores,fatal
+2018-0067,pasajero_acompañante,pasajeros,femenino,60 y mayores,fatal
+2018-0068,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0069,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2018-0070,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0071,conductor,moto,masculino,,fatal
+2018-0072,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0073,peaton,peaton,femenino,60 y mayores,fatal
+2018-0074,conductor,auto,masculino,entre 18 y 29,fatal
+2018-0075,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0076,conductor,auto,masculino,60 y mayores,fatal
+2018-0077,conductor,auto,masculino,entre 50 y 59,fatal
+2018-0078,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0079,peaton,peaton,masculino,,fatal
+2018-0080,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0081,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0082,conductor,moto,femenino,menos de 18,fatal
+2018-0083,conductor,moto,masculino,,fatal
+2018-0084,peaton,peaton,masculino,entre 40 y 49,fatal
+2018-0085,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2018-0085,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0086,peaton,peaton,masculino,entre 40 y 49,fatal
+2018-0087,peaton,peaton,masculino,60 y mayores,fatal
+2018-0088,conductor,moto,masculino,,fatal
+2018-0089,peaton,peaton,masculino,60 y mayores,fatal
+2018-0090,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0091,pasajero_acompañante,auto,femenino,entre 18 y 29,fatal
+2018-0092,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0093,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0094,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0095,pasajero_acompañante,auto,femenino,entre 50 y 59,fatal
+2018-0096,peaton,peaton,masculino,entre 40 y 49,fatal
+2018-0097,conductor,auto,femenino,entre 30 y 39,fatal
+2018-0098,conductor,auto,masculino,entre 50 y 59,fatal
+2018-0098,pasajero_acompañante,auto,masculino,entre 50 y 59,fatal
+2018-0099,peaton,peaton,masculino,entre 18 y 29,fatal
+2018-0100,,moto,femenino,entre 30 y 39,fatal
+2018-0101,conductor,auto,masculino,,fatal
+2018-0102,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0103,peaton,peaton,masculino,menos de 18,fatal
+2018-0104,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0105,peaton,peaton,femenino,entre 50 y 59,fatal
+2018-0106,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0107,peaton,peaton,femenino,60 y mayores,fatal
+2018-0108,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0109,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0110,peaton,peaton,masculino,60 y mayores,fatal
+2018-0111,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0112,conductor,moto,femenino,entre 18 y 29,fatal
+2018-0113,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0114,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0115,peaton,peaton,masculino,entre 40 y 49,fatal
+2018-0116,peaton,peaton,masculino,entre 40 y 49,fatal
+2018-0117,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0118,peaton,peaton,femenino,60 y mayores,fatal
+2018-0119,peaton,peaton,femenino,entre 30 y 39,fatal
+2018-0120,peaton,peaton,femenino,entre 50 y 59,fatal
+2018-0121,peaton,peaton,femenino,60 y mayores,fatal
+2018-0122,conductor,auto,masculino,entre 30 y 39,fatal
+2018-0123,conductor,auto,masculino,entre 18 y 29,fatal
+2018-0124,conductor,cargas,masculino,entre 40 y 49,fatal
+2018-0125,peaton,peaton,masculino,entre 30 y 39,fatal
+2018-0126,conductor,moto,masculino,entre 18 y 29,fatal
+2018-0127,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0128,pasajero_acompañante,auto,masculino,entre 50 y 59,fatal
+2018-0128,pasajero_acompañante,auto,femenino,entre 40 y 49,fatal
+2018-0129,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0130,conductor,moto,masculino,,fatal
+2018-0131,conductor,moto,masculino,entre 30 y 39,fatal
+2018-0132,peaton,peaton,masculino,60 y mayores,fatal
+2018-0133,peaton,peaton,femenino,60 y mayores,fatal
+2018-0134,peaton,peaton,masculino,entre 50 y 59,fatal
+2018-0135,peaton,peaton,masculino,60 y mayores,fatal
+2018-0136,peaton,peaton,femenino,60 y mayores,fatal
+2018-0137,pasajero_acompañante,moto,masculino,entre 30 y 39,fatal
+2018-0138,pasajero_acompañante,pasajeros,femenino,60 y mayores,fatal
+2018-0139,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2018-0140,conductor,auto,masculino,60 y mayores,fatal
+2018-0141,peaton,peaton,masculino,60 y mayores,fatal
+2018-0142,pasajero_acompañante,cargas,masculino,entre 30 y 39,fatal
+2018-0143,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0001,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0002,conductor,auto,masculino,entre 30 y 39,fatal
+2019-0003,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0004,conductor,auto,masculino,60 y mayores,fatal
+2019-0005,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0006,peaton,peaton,femenino,menos de 18,fatal
+2019-0007,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0008,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0009,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0010,peaton,peaton,masculino,,fatal
+2019-0010,peaton,peaton,masculino,60 y mayores,fatal
+2019-0011,peaton,peaton,masculino,,fatal
+2019-0012,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0013,peaton,peaton,masculino,entre 40 y 49,fatal
+2019-0014,conductor,moto,masculino,60 y mayores,fatal
+2019-0015,conductor,auto,masculino,entre 18 y 29,fatal
+2019-0016,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0017,conductor,auto,masculino,entre 18 y 29,fatal
+2019-0018,peaton,peaton,femenino,entre 30 y 39,fatal
+2019-0019,conductor,moto,masculino,,fatal
+2019-0020,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0021,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0022,pasajero_acompañante,auto,masculino,,fatal
+2019-0023,conductor,auto,masculino,entre 30 y 39,fatal
+2019-0024,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0025,peaton,peaton,masculino,entre 18 y 29,fatal
+2019-0026,peaton,peaton,masculino,,fatal
+2019-0027,conductor,bicicleta,masculino,entre 30 y 39,fatal
+2019-0028,peaton,peaton,femenino,,fatal
+2019-0029,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0030,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0031,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2019-0032,peaton,peaton,femenino,60 y mayores,fatal
+2019-0033,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0034,conductor,moto,masculino,,fatal
+2019-0035,peaton,peaton,femenino,60 y mayores,fatal
+2019-0036,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0037,conductor,moto,masculino,menos de 18,fatal
+2019-0038,peaton,peaton,femenino,entre 40 y 49,fatal
+2019-0105,peaton,peaton,femenino,60 y mayores,fatal
+2019-0039,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0040,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0041,pasajero_acompañante,auto,femenino,60 y mayores,fatal
+2019-0042,peaton,peaton,masculino,entre 40 y 49,fatal
+2019-0043,conductor,bicicleta,femenino,,fatal
+2019-0044,peaton,peaton,femenino,60 y mayores,fatal
+2019-0045,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0046,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2019-0047,peaton,peaton,masculino,60 y mayores,fatal
+2019-0048,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0049,peaton,peaton,femenino,60 y mayores,fatal
+2019-0050,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0051,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0053,pasajero_acompañante,auto,masculino,entre 50 y 59,fatal
+2019-0054,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0055,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0056,peaton,peaton,femenino,60 y mayores,fatal
+2019-0057,peaton,peaton,femenino,60 y mayores,fatal
+2019-0058,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0059,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0060,peaton,peaton,femenino,60 y mayores,fatal
+2019-0061,peaton,peaton,femenino,entre 50 y 59,fatal
+2019-0062,peaton,peaton,femenino,60 y mayores,fatal
+2019-0063,pasajero_acompañante,moto,masculino,,fatal
+2019-0064,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0065,peaton,peaton,femenino,entre 50 y 59,fatal
+2019-0066,peaton,peaton,masculino,entre 40 y 49,fatal
+2019-0067,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0068,conductor,moto,masculino,entre 50 y 59,fatal
+2019-0069,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0070,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0071,peaton,peaton,masculino,,fatal
+2019-0072,conductor,auto,masculino,entre 18 y 29,fatal
+2019-0073,conductor,auto,masculino,entre 30 y 39,fatal
+2019-0074,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0075,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0076,conductor,moto,femenino,entre 30 y 39,fatal
+2019-0077,peaton,peaton,femenino,entre 18 y 29,fatal
+2019-0078,peaton,peaton,femenino,60 y mayores,fatal
+2019-0079,conductor,moto,masculino,entre 50 y 59,fatal
+2019-0080,peaton,peaton,masculino,60 y mayores,fatal
+2019-0081,peaton,peaton,masculino,60 y mayores,fatal
+2019-0082,conductor,bicicleta,masculino,entre 40 y 49,fatal
+2019-0083,conductor,auto,masculino,60 y mayores,fatal
+2019-0084,conductor,bicicleta,femenino,entre 40 y 49,fatal
+2019-0085,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2019-0086,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0087,conductor,moto,masculino,entre 40 y 49,fatal
+2019-0088,peaton,peaton,masculino,entre 18 y 29,fatal
+2019-0089,peaton,peaton,femenino,60 y mayores,fatal
+2019-0090,peaton,peaton,masculino,60 y mayores,fatal
+2019-0091,peaton,peaton,masculino,entre 30 y 39,fatal
+2019-0092,peaton,peaton,masculino,entre 30 y 39,fatal
+2019-0093,conductor,bicicleta,masculino,menos de 18,fatal
+2019-0094,pasajero_acompañante,moto,femenino,,fatal
+2019-0095,conductor,moto,masculino,,fatal
+2019-0096,peaton,peaton,masculino,60 y mayores,fatal
+2019-0097,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2019-0098,pasajero_acompañante,pasajeros,femenino,60 y mayores,fatal
+2019-0100,conductor,moto,masculino,entre 30 y 39,fatal
+2019-0101,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0102,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0103,conductor,moto,masculino,entre 18 y 29,fatal
+2019-0104,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2020-0001,peaton,peaton,femenino,60 y mayores,fatal
+2020-0002,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0003,peaton,peaton,masculino,entre 40 y 49,fatal
+2020-0004,peaton,peaton,masculino,60 y mayores,fatal
+2020-0005,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0006,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0007,peaton,peaton,masculino,entre 50 y 59,fatal
+2020-0008,conductor,moto,masculino,entre 50 y 59,fatal
+2020-0009,peaton,peaton,masculino,entre 40 y 49,fatal
+2020-0010,conductor,moto,masculino,,fatal
+2020-0011,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0012,peaton,peaton,femenino,60 y mayores,fatal
+2020-0013,peaton,peaton,femenino,entre 50 y 59,fatal
+2020-0014,conductor,moto,masculino,,fatal
+2020-0015,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0016,peaton,peaton,masculino,60 y mayores,fatal
+2020-0017,peaton,peaton,masculino,,fatal
+2020-0018,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0019,peaton,peaton,femenino,60 y mayores,fatal
+2020-0020,peaton,peaton,femenino,60 y mayores,fatal
+2020-0021,peaton,peaton,femenino,60 y mayores,fatal
+2020-0022,pasajero_acompañante,auto,masculino,entre 40 y 49,fatal
+2020-0023,conductor,auto,masculino,entre 40 y 49,fatal
+2020-0024,conductor,auto,masculino,entre 50 y 59,fatal
+2020-0025,peaton,peaton,masculino,,fatal
+2020-0026,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0027,peaton,peaton,masculino,60 y mayores,fatal
+2020-0028,peaton,peaton,masculino,60 y mayores,fatal
+2020-0029,peaton,peaton,masculino,60 y mayores,fatal
+2020-0030,conductor,moto,masculino,entre 40 y 49,fatal
+2020-0031,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0032,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0033,conductor,auto,masculino,entre 30 y 39,fatal
+2020-0034,peaton,peaton,femenino,,fatal
+2020-0035,conductor,moto,masculino,entre 40 y 49,fatal
+2020-0036,peaton,peaton,masculino,60 y mayores,fatal
+2020-0037,peaton,peaton,masculino,entre 30 y 39,fatal
+2020-0038,conductor,auto,masculino,entre 40 y 49,fatal
+2020-0038,conductor,auto,masculino,60 y mayores,fatal
+2020-0039,peaton,peaton,masculino,entre 40 y 49,fatal
+2020-0040,conductor,auto,masculino,,fatal
+2020-0041,conductor,moto,masculino,entre 30 y 39,fatal
+2020-0042,peaton,peaton,femenino,entre 50 y 59,fatal
+2020-0043,peaton,peaton,masculino,60 y mayores,fatal
+2020-0044,conductor,auto,masculino,entre 40 y 49,fatal
+2020-0045,conductor,auto,masculino,entre 50 y 59,fatal
+2020-0046,conductor,moto,masculino,entre 40 y 49,fatal
+2020-0047,peaton,peaton,masculino,menos de 18,fatal
+2020-0048,conductor,moto,masculino,entre 40 y 49,fatal
+2020-0049,peaton,peaton,masculino,entre 30 y 39,fatal
+2020-0050,peaton,peaton,femenino,entre 18 y 29,fatal
+2020-0051,conductor,moto,masculino,entre 50 y 59,fatal
+2020-0052,conductor,bicicleta,masculino,entre 40 y 49,fatal
+2020-0053,pasajero_acompañante,auto,masculino,entre 18 y 29,fatal
+2020-0054,conductor,bicicleta,masculino,60 y mayores,fatal
+2020-0055,peaton,peaton,masculino,60 y mayores,fatal
+2020-0056,conductor,moto,femenino,entre 30 y 39,fatal
+2020-0057,peaton,peaton,masculino,60 y mayores,fatal
+2020-0058,peaton,peaton,masculino,entre 50 y 59,fatal
+2020-0059,peaton,peaton,femenino,entre 50 y 59,fatal
+2020-0060,peaton,peaton,femenino,60 y mayores,fatal
+2020-0061,conductor,moto,masculino,entre 40 y 49,fatal
+2020-0062,conductor,bicicleta,masculino,entre 40 y 49,fatal
+2020-0063,peaton,peaton,masculino,entre 30 y 39,fatal
+2020-0063,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2020-0065,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0066,conductor,moto,masculino,entre 18 y 29,fatal
+2020-0067,peaton,peaton,masculino,entre 50 y 59,fatal
+2020-0068,conductor,moto,masculino,60 y mayores,fatal
+2020-0069,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2020-0070,peaton,peaton,femenino,60 y mayores,fatal
+2020-0071,peaton,peaton,masculino,menos de 18,fatal
+2020-0072,conductor,bicicleta,masculino,entre 40 y 49,fatal
+2020-0073,conductor,moto,masculino,entre 50 y 59,fatal
+2020-0074,conductor,auto,masculino,entre 40 y 49,fatal
+2020-0075,peaton,peaton,masculino,entre 18 y 29,fatal
+2020-0076,conductor,auto,femenino,60 y mayores,fatal
+2020-0077,conductor,moto,femenino,entre 30 y 39,fatal
+2020-0077,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2020-0078,conductor,bicicleta,masculino,entre 18 y 29,fatal
+2020-0079,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0001,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0002,conductor,moto,femenino,entre 40 y 49,fatal
+2021-0003,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0004,peaton,peaton,femenino,60 y mayores,fatal
+2021-0005,peaton,peaton,masculino,60 y mayores,fatal
+2021-0006,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2021-0007,conductor,moto,masculino,60 y mayores,fatal
+2021-0008,peaton,peaton,masculino,entre 18 y 29,fatal
+2021-0009,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0010,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0011,peaton,peaton,masculino,entre 18 y 29,fatal
+2021-0012,peaton,peaton,masculino,,fatal
+2021-0013,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0014,peaton,peaton,masculino,entre 18 y 29,fatal
+2021-0015,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0016,conductor,auto,masculino,entre 18 y 29,fatal
+2021-0017,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0018,peaton,peaton,masculino,entre 30 y 39,fatal
+2021-0019,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0020,peaton,peaton,femenino,,fatal
+2021-0021,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0022,pasajero_acompañante,pasajeros,masculino,60 y mayores,fatal
+2021-0023,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0024,conductor,bicicleta,masculino,menos de 18,fatal
+2021-0025,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0026,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0027,conductor,moto,femenino,entre 18 y 29,fatal
+2021-0028,peaton,peaton,masculino,,fatal
+2021-0029,conductor,auto,masculino,entre 18 y 29,fatal
+2021-0030,peaton,peaton,masculino,entre 30 y 39,fatal
+2021-0031,peaton,peaton,femenino,60 y mayores,fatal
+2021-0032,peaton,peaton,masculino,60 y mayores,fatal
+2021-0033,conductor,auto,masculino,entre 30 y 39,fatal
+2021-0034,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2021-0035,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0036,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0037,peaton,peaton,femenino,entre 50 y 59,fatal
+2021-0038,conductor,moto,femenino,entre 40 y 49,fatal
+2021-0039,conductor,bicicleta,masculino,60 y mayores,fatal
+2021-0040,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0041,peaton,peaton,masculino,60 y mayores,fatal
+2021-0042,peaton,peaton,masculino,entre 40 y 49,fatal
+2021-0043,peaton,peaton,masculino,entre 50 y 59,fatal
+2021-0044,pasajero_acompañante,moto,masculino,entre 18 y 29,fatal
+2021-0045,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0046,pasajero_acompañante,auto,masculino,entre 18 y 29,fatal
+2021-0047,conductor,moto,masculino,60 y mayores,fatal
+2021-0048,conductor,bicicleta,masculino,entre 40 y 49,fatal
+2021-0049,conductor,auto,masculino,60 y mayores,fatal
+2021-0050,conductor,moto,masculino,entre 50 y 59,fatal
+2021-0051,peaton,peaton,masculino,60 y mayores,fatal
+2021-0052,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2021-0053,peaton,peaton,masculino,entre 50 y 59,fatal
+2021-0054,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0055,pasajero_acompañante,moto,masculino,entre 40 y 49,fatal
+2021-0056,conductor,bicicleta,masculino,60 y mayores,fatal
+2021-0057,conductor,auto,masculino,entre 40 y 49,fatal
+2021-0058,peaton,peaton,masculino,entre 18 y 29,fatal
+2021-0059,pasajero_acompañante,auto,femenino,entre 40 y 49,fatal
+2021-0060,peaton,peaton,femenino,60 y mayores,fatal
+2021-0061,peaton,peaton,femenino,entre 50 y 59,fatal
+2021-0062,conductor,auto,masculino,60 y mayores,fatal
+2021-0063,pasajero_acompañante,auto,femenino,entre 30 y 39,fatal
+2021-0064,peaton,peaton,masculino,entre 30 y 39,fatal
+2021-0065,peaton,peaton,femenino,60 y mayores,fatal
+2021-0066,peaton,peaton,masculino,60 y mayores,fatal
+2021-0067,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0068,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0069,peaton,peaton,masculino,menos de 18,fatal
+2021-0070,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0071,peaton,peaton,masculino,60 y mayores,fatal
+2021-0072,peaton,peaton,femenino,entre 50 y 59,fatal
+2021-0073,conductor,bicicleta,femenino,60 y mayores,fatal
+2021-0074,conductor,moto,masculino,entre 50 y 59,fatal
+2021-0075,peaton,peaton,masculino,60 y mayores,fatal
+2021-0076,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0077,conductor,moto,femenino,entre 30 y 39,fatal
+2021-0078,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0079,peaton,peaton,masculino,,fatal
+2021-0080,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0081,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0082,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0083,conductor,moto,masculino,entre 30 y 39,fatal
+2021-0084,conductor,auto,masculino,entre 30 y 39,fatal
+2021-0097,conductor,bicicleta,masculino,entre 50 y 59,fatal
+2021-0085,conductor,moto,masculino,entre 50 y 59,fatal
+2021-0086,peaton,peaton,masculino,60 y mayores,fatal
+2021-0087,peaton,peaton,femenino,60 y mayores,fatal
+2021-0088,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0089,conductor,moto,masculino,entre 40 y 49,fatal
+2021-0090,peaton,peaton,masculino,60 y mayores,fatal
+2021-0091,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0092,peaton,peaton,femenino,entre 50 y 59,fatal
+2021-0093,pasajero_acompañante,moto,femenino,entre 18 y 29,fatal
+2021-0094,pasajero_acompañante,moto,femenino,entre 40 y 49,fatal
+2021-0095,conductor,moto,masculino,entre 18 y 29,fatal
+2021-0096,conductor,auto,masculino,60 y mayores,fatal

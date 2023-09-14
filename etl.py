@@ -95,3 +95,5 @@ def etl_lesiones():
     return f'The new csv files "lesiones_hechos.csv" and "lesiones_victimas.csv" were created and stored in datasets folder'
 
 
+etl_homicidios()
+etl_lesiones()

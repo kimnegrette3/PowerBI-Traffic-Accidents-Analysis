@@ -28,7 +28,7 @@ Se utilizó Pandas-Profiling para realizar un EDA automático. Esta herramienta 
 
 ## Proceso de ETL
 
-El proceso ETL (Extracción, Transformación y Carga) se realizó en Python. Durante este proceso, se limpiaron y transformaron los datos para que estuvieran listos para su análisis y visualización en Power BI. Esto incluyó:
+El proceso ETL (Extracción, Transformación y Carga) se realizó en Python. Durante este proceso, se limpiaron y transformaron los datos para que estuvieran listos para su análisis y visualización en Power BI. 
 
 
 ## Modelado de Datos

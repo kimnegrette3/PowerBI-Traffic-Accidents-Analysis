@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=flat&logo=Numpy)
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=PowerBI)
 
-**Visualiza el reporte interactivo de PowerBI [aquí]()**
+**Visualiza el reporte interactivo de PowerBI [aquí](https://www.novypro.com/project/análisis-de-siniestros-viales-en-buenos-aires)**
 
 ## Descripción
 
@@ -103,7 +103,7 @@ Realicé un reporte detallado en Power BI compuesto por varias páginas, cada un
 
 ## Recursos y Contacto
 
-- **Reporte Interactivo**: Puedes explorar el reporte de manera interactiva y detallada en [Novypro](<enlace_novypro_aquí>).
+- **Reporte Interactivo**: Puedes explorar el reporte de manera interactiva y detallada en [Novypro](https://www.novypro.com/project/análisis-de-siniestros-viales-en-buenos-aires).
 
 - **Datos Originales**: Los datos utilizados para este proyecto provienen de la página oficial de [Buenos Aires Ciudad](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales). Allí también encontrarás un diccionario de datos que explica cada variable en detalle.
 

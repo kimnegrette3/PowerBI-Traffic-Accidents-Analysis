@@ -39,7 +39,7 @@ El modelado de datos se realizó en Power BI usando la vista de modelo. Se adopt
 - **Simplicidad**: Es más fácil de entender y visualizar.
 - **Flexibilidad**: Facilita la adición de nuevas dimensiones o hechos sin afectar las existentes.
 
-![model](images/data-model.jpeg)
+![model](imagenes/data-model.jpeg)
 
 ## Dashboards y KPIs
 
@@ -53,12 +53,12 @@ Realicé un reporte detallado en Power BI compuesto por variasa páginas, cada u
         -Reducción de Víctimas Fatales Motociclistas: Se busca una reducción del 7% en el número de víctimas fatales motociclistas en comparación con el año anterior.
         - Reducción de Víctimas Fatales en Avenidas: El objetivo es reducir en un 10% el número de víctimas fatales en accidentes ocurridos en avenidas, comparado con el año anterior. 
 
-![overview](images/overview.jpeg)
+![overview](imagenes/overview.jpeg)
 
 
 ## Insights y Recomendaciones
 
-![kpis](images/kpis.jpeg)
+![kpis](imagenes/kpis.jpeg)
 
 ## Conclusiones
 

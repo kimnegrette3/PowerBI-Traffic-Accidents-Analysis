@@ -1,6 +1,6 @@
 # Análisis de Siniestros Viales en Buenos Aires
 
-![siniestro](images/siniestro-viales-3.jpg)
+![siniestro](imagenes/siniestro-viales-3.jpg)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=flat&logo=Numpy)

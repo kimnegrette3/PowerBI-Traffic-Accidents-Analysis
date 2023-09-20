@@ -6,6 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=flat&logo=Numpy)
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=PowerBI)
 
+For the english version, click [here](README-en.md)
+
 **Visualiza el reporte interactivo de PowerBI [aquí](https://www.novypro.com/project/análisis-de-siniestros-viales-en-buenos-aires)**
 
 ## Descripción
@@ -15,6 +17,20 @@ El proyecto "Análisis de Siniestros Viales" es una iniciativa orientada a explo
 La naturaleza multidimensional de los siniestros viales requiere un enfoque meticuloso y un análisis cuidadoso. Por ello, se ha adoptado una variedad de herramientas y técnicas, desde el proceso de ETL realizado en Python hasta la visualización y modelado de datos en Power BI. Además de los análisis centrales, se han incorporado KPIs y se ha llevado a cabo un análisis exploratorio con Pandas-Profiling para obtener una visión holística de la situación.
 
 El resultado es un reporte compuesto por un conjunto coherente de dashboards y análisis que no solo destaca las métricas y tendencias clave, sino que también subraya las áreas de intervención potencial para mejorar la seguridad vial y disminuir la tasa de fatalidad en siniestros. A través de este proyecto, espero no solo ilustrar la utilidad del análisis de datos en contextos prácticos, sino también resaltar la importancia de la seguridad vial como una cuestión que nos afecta a todos.
+
+## Objetivo
+
+A través de este estudio, buscamos:
+
+- Comprender las principales causas de accidentes de tráfico en Buenos Aires.
+- Identificar los grupos más vulnerables.
+- Descubrir patrones relacionados con horarios y lugares con la mayor incidencia de accidentes.
+- Ofrecer recomendaciones basadas en los hallazgos para mejorar la seguridad vial.
+
+## Fuente de Datos
+
+Los datos utilizados en este proyecto provienen del sitio web oficial de [Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/datosabiertos). Aquí, también puede encontrar un diccionario de datos que detalla cada variable.
+
 
 ## Herramientas Utilizadas
 

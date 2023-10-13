@@ -8,7 +8,7 @@
 
 Para leer la versión en español, click [aquí](README.md)
 
-**View the interactive PowerBI report [here](https://www.novypro.com/project/traffic-accidents-analysis-in-buenos-aires)**
+**View the interactive PowerBI report [here](https://www.novypro.com/project/análisis-de-siniestros-viales-en-buenos-aires)**
 
 ## Description
 
